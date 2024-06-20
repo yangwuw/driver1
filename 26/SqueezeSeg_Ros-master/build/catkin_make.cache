@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/mc/autodriver/26/SqueezeSeg_Ros-master/devel -DCMAKE_INSTALL_PREFIX=/home/mc/autodriver/26/SqueezeSeg_Ros-master/install -G Unix Makefiles

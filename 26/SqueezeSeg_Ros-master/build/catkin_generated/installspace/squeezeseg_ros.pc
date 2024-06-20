@@ -1,0 +1,8 @@
+prefix=/home/mc/autodriver/26/SqueezeSeg_Ros-master/install
+
+Name: squeezeseg_ros
+Description: Description of squeezeseg_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
